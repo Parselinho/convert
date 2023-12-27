@@ -1,0 +1,17 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudmersive-convert-api-client": "^2.8.0",
+    "dotenv": "^16.3.1",
+    "pdf-lib": "^1.17.1"
+  }
+}
