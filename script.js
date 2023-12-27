@@ -19,5 +19,5 @@ function convertPdfToWord(pdfFilePath, outputFilePath) {
     }
   });
 }
-
-convertPdfToWord("./files/eskem.pdf", "./files/page.docx");
+// inser file path here!!!
+convertPdfToWord("./files/SOMEFILE.pdf", "./files/page.docx"); /// insert your file here !!!!!
