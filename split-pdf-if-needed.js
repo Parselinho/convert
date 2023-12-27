@@ -16,5 +16,5 @@ async function splitPdf(pdfPath) {
 
   console.log("PDF split into individual pages.");
 }
-
-splitPdf("./files/eskem.pdf");
+// your files here!
+splitPdf("./files/eskem.pdf"); // your files here!
